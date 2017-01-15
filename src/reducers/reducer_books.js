@@ -1,8 +1,8 @@
 export default function() {
   return [
-    { title: 'Javascript: The Good Parts' },
-    { title: 'To Kill A Mockingbird' },
-    { title: 'No Country For Old Men' },
-    { title: 'The Catcher In The Rye' }
-  ];
+    { id: 1, title: 'Javascript: The Good Parts' },
+    { id: 2, title: 'To Kill A Mockingbird' },
+    { id: 3, title: 'No Country For Old Men' },
+    { id: 4, title: 'The Catcher In The Rye' }
+  ]
 }
